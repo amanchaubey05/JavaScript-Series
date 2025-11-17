@@ -1,1 +1,1 @@
-# JavaScript-Series
+# The JavaScript-Series
